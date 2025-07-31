@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=flat&logo=angular" />
   <img src="https://img.shields.io/badge/Backend-Java%20(Maven)-007396?style=flat&logo=java" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat" />
+ 
 </p>
 
 ---
