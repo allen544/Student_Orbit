@@ -68,11 +68,8 @@ student-orbit/
 🚀 Getting Started
 
 3️⃣ Frontend Setup
-bash
-Copy
-Edit
 cd frontend
-npm install
+npm install( IMPORTANT cause in this i didnt added node modules)
 ng serve
 4️⃣ Database Setup
 Install MongoDB locally or use a cloud instance.
